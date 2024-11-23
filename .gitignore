@@ -1,0 +1,72 @@
+
+*.mp4
+*/src/
+/1_Search
+
+
+# Byte-compiled and interpreter cache files
+*/__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+env/
+venv/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and debugging files
+*.log
+*.out
+*.err
+
+# Unit test and coverage results
+.coverage
+*.cover
+coverage.xml
+htmlcov/
+*.pytest_cache/
+
+# Packaging files
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*.DS_Store
+Thumbs.db
+
+# dotenv environment variables
+.env
+.env.*
+
+# IDE and editor-specific files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# PyCharm
+*.iml
+*.ipr
+*.iws
+
+# macOS system files
+.DS_Store
+._*
+
+# Windows system files
+Thumbs.db
+desktop.ini
+
+# Anaconda
+*.conda
+*.ipynb_checkpoints
